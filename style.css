@@ -1,0 +1,18 @@
+body{
+  background:url(http://img.freepik.com/darmowe-zdjecie/sto%C5%82-telefonu-streszczenie-biura-bia%C5%82ego_1303-369.jpg?size=338&ext=jpg); background-attachment: fixed;
+  color:black;
+  margin-top:60px;
+  background-size:cover;
+  background:(url:http://img.freepik.com/darmowe-zdjecie/sto%C5%82-telefonu-streszczenie-biura-bia%C5%82ego_1303-369.jpg?size=338&ext=jpg)
+}
+.quote{
+background-color: rgba(255, 221, 238, 0.5);
+  border:1px solid black;
+  margin-top:40px;
+  height:auto;
+ 
+}
+
+button a{
+  color:white;
+}
